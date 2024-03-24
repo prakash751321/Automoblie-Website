@@ -1,0 +1,148 @@
+.test {
+    position: absolute;
+    top: -0.4rem;
+    left: -10.2rem;
+    height: 1rem;
+     width: 30rem;
+}
+
+.dual_arrow {
+        position: absolute;
+        top: -1rem;
+        right:  -22.8rem;
+        height: 5rem;
+        width: 23rem;
+}
+
+.dual_arrow1 {
+    position: absolute;
+    top: -4.2rem;
+    left: 30.5rem;
+    height: 3rem;
+    width: 30rem;
+}
+
+.fourarrow {
+        position: absolute;
+        top: -8.8rem;
+        left: 63.8rem;
+        height: 10rem;
+        width: 15rem;
+}
+
+.squarearrow {
+        top: -8.8rem;
+        position: absolute;
+        left: 85.9rem;
+        height: 10rem;
+        width: 15rem;
+}
+
+.singlearrow1 {
+        position: absolute;
+        top: -4.6rem;
+        left: 55.5rem;
+        height: 1.5rem;
+        width: 15rem;
+}
+
+.blue {
+    position: absolute;
+    top: -1.5rem;
+    left: 8.5rem;
+    height: 3rem;
+    width: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: #3333d7; */
+}
+
+.blue1 {
+        position: absolute;
+        height: 3rem;
+        width: 10rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /* background-color: #3333d7; */
+    }
+
+.blue2 {
+        position: absolute;
+        height: 2rem;
+        width: 8rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /* background-color: #3333d7; */
+    }
+
+.blue3 {
+        position: absolute;
+        height: 2rem;
+        width: 8rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /* background-color: #3333d7; */
+    }
+
+.blue4 {
+        position: absolute;
+        height: 2rem;
+        width: 8rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /* background-color: #3333d7; */
+    }
+
+.light_blue {
+        position: absolute;
+        top: 5rem;
+        left: 8.5rem;
+        height: 3rem;
+        width: 10rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /* background-color: #7c7cdb; */
+}
+
+.light_red {
+        position: absolute;
+        top: 12rem;
+        left: 8.5rem;
+        height: 3rem;
+        width: 10rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /* background-color: rgb(214, 55, 55); */
+}
+
+.light_pink {
+        position: absolute;
+        top: 19rem;
+        left: 8.5rem;
+        height: 3rem;
+        width: 10rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /* background-color: palevioletred; */
+}
+
+.light_purple {
+        position: absolute;
+        top: 26rem;
+        left: 8.5rem;
+        height: 3rem;
+        width: 10rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /* background-color: rgb(146, 83, 146); */
+}
+
